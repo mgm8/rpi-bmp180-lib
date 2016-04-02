@@ -1,3 +1,8 @@
+/*
+ * Compiling with GCC: g++ -o example example.cpp bmp180.cpp i2c.cpp
+ * 
+ * */
+
 #include <iostream>
 #include <stdlib.h>     // system()
 #include <unistd.h>     // sleep()
